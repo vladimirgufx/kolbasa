@@ -1,0 +1,8 @@
+"*.session" 
+"*.session-journal" 
+"processed_users.txt" 
+"forward_counter.txt" 
+"spam_check.txt" 
+"stats.txt" 
+"__pycache__/" 
+"*.pyc" 
